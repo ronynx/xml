@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="employee.xsl"?>
+<company>
+  <employee>
+    <fullname>John Nash</fullname>
+    <designation>Senoir Developer</designation>
+    <address>KTM</address>
+    <phone>987654321</phone>
+  </employee>
+  <employee>
+    <fullname>Ray Morton</fullname>
+    <designation>Manager</designation>
+    <address>Morang</address>
+  </employee>
+  <employee>
+    <fullname>Mike Joh</fullname>
+    <designation>Manager</designation>
+    <address>Biratnagar</address>
+  </employee>
+</company>
