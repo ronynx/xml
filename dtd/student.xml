@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE Student SYSTEM "student.dtd">
+
+<student>
+	<name batch="104">Sam</name>
+	<class>BSC CSIT</class>
+	<address>KTM</address>
+	<phonenumber>987654321</phonenumber>
+</student>
