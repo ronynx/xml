@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<message 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+    xsi:noNamespaceSchemaLocation ="messageattrb.xsd">
+      <to>Nishan</to>
+      <from>Ishan</from>
+      <heading>Request</heading>
+      <age>121</age>
+      <body lang="en">
+             <info >Requesting for ....</info>
+      </body>
+</message>
