@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<message 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+xsi:noNamespaceSchemaLocation ="message.xsd">
+  <to>Ram</to>
+  <from>Ishan</from>
+  <heading>Request</heading>
+  <body>I would like to request for...</body>
+</message>
