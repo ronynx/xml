@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <book category="programming">
+        <title lang="en">Learning XML</title>
+        <author>
+            <firstname>Ram</firstname>
+            <lastname>Sharma</lastname>
+        </author>
+        <price currency="NPR">400</price>
+        <year>2023</year>
+    </book>
+
+    <book category="database">
+        <title lang="en">Database Fundamentals</title>
+        <author>
+            <firstname>Shyam</firstname>
+            <lastname>Thapa</lastname>
+        </author>
+        <price currency="NPR">450</price>
+        <year>2022</year>
+    </book>
+</bookstore>
